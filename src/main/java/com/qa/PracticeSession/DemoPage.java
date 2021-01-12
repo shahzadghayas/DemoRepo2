@@ -21,8 +21,14 @@ import org.openqa.selenium.support.ui.Select;
 
 public class DemoPage {
 
-	public static void main(String[] args) throws IOException {
+	public static void test123()
+	{
 		// TODO Auto-generated method stub
+	}
+	
+	public static void main(String[] args) throws IOException {
+		
+		
 	}
 
 }

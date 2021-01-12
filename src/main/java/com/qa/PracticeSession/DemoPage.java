@@ -25,6 +25,10 @@ public class DemoPage {
 	{
 		// TODO Auto-generated method stub
 	}
+	public static void test12()
+	{
+		// TODO Auto-generated method stub
+	}
 	
 	public static void main(String[] args) throws IOException {
 		
